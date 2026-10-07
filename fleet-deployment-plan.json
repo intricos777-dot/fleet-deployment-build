@@ -1,0 +1,78 @@
+{
+  "title": "FLEET DEPLOYMENT RECREATION PLAN",
+  "created": "2026-10-06",
+  "status": "in_progress",
+  "completed": [
+    "listener-baseline",
+    "anchor-set",
+    "bch-wallet",
+    "ssh-key",
+    "miner-scripts",
+    "usb-admission",
+    "hermes-cli push",
+    "session-log repo current"
+  ],
+  "items": [
+    {
+      "id": "ssh-hardening",
+      "title": "SSH PasswordAuthentication hardening",
+      "status": "pending-user",
+      "priority": "medium",
+      "requires_sudo": true,
+      "script": "fleet-system-changes.sh Item 1",
+      "note": "PasswordAuthentication no written to sshd_config.d; sshd restart + verify. Run the sudo script."
+    },
+    {
+      "id": "ioweight-delegation",
+      "title": "IOWeight delegation",
+      "status": "pending-user",
+      "priority": "high",
+      "requires_sudo": true,
+      "script": "fleet-system-changes.sh Item 2"
+    },
+    {
+      "id": "zen-iso-build",
+      "title": "Zen ISO build",
+      "status": "pending-user",
+      "priority": "high",
+      "requires_sudo": true,
+      "script": "fleet-system-changes.sh Item 3"
+    },
+    {
+      "id": "community-repo",
+      "title": "[community] repo",
+      "status": "pending-user",
+      "priority": "medium",
+      "requires_sudo": true,
+      "script": "fleet-system-changes.sh Item 4"
+    },
+    {
+      "id": "usb-admission",
+      "title": "USB device admission control",
+      "status": "done",
+      "priority": "high",
+      "note": "Installed: /home/livings/Projects/shield-kitty/device-blacklist"
+    },
+    {
+      "id": "dogecoin",
+      "title": "Dogecoin address",
+      "status": "needs-input",
+      "priority": "medium",
+      "note": "Valid Dogecoin address required."
+    },
+    {
+      "id": "ravencoin",
+      "title": "Ravencoin route",
+      "status": "needs-input",
+      "priority": "medium",
+      "note": "Ravencoin node route / URL required."
+    },
+    {
+      "id": "polsia",
+      "title": "Polsia payouts",
+      "status": "needs-input",
+      "priority": "medium",
+      "note": "Real PayPal credentials required to enable payouts."
+    }
+  ]
+}

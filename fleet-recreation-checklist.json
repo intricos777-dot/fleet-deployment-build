@@ -1,0 +1,73 @@
+{
+  "fleet_recreation": {
+    "description": "Recreate the fleet deployment work from prior sessions",
+    "source": "torch-workspace data",
+    "items": [
+      {
+        "id": "ssh-hardening",
+        "action": "Set PasswordAuthentication no in sshd_config, restart sshd, verify",
+        "requires_sudo": true
+      },
+      {
+        "id": "ioweight-delegation",
+        "action": "Configure cgroup delegation for user@1000.service",
+        "requires_sudo": true
+      },
+      {
+        "id": "zen-iso-build",
+        "action": "Install archiso for Zen ISO building",
+        "requires_sudo": true
+      },
+      {
+        "id": "community-repo",
+        "action": "Add [community] repo to pacman.conf",
+        "requires_sudo": true
+      },
+      {
+        "id": "usb-admission",
+        "action": "Install USB device admission control",
+        "requires_sudo": true
+      },
+      {
+        "id": "listener-baseline",
+        "action": "Already saved: 12 listening ports",
+        "requires_sudo": false
+      },
+      {
+        "id": "anchor-set",
+        "action": "Already saved: 18/18 anchors verified",
+        "requires_sudo": false
+      },
+      {
+        "id": "bch-wallet",
+        "action": "Already completed: wallet.dat pulled from LFS, verified",
+        "requires_sudo": false
+      },
+      {
+        "id": "dogecoin",
+        "action": "Needs user input: valid Dogecoin address",
+        "requires_sudo": false
+      },
+      {
+        "id": "ravencoin",
+        "action": "Needs user input: Ravencoin node route",
+        "requires_sudo": false
+      },
+      {
+        "id": "polsia",
+        "action": "Needs real PayPal credentials to enable payouts",
+        "requires_sudo": false
+      },
+      {
+        "id": "ssh-key",
+        "action": "Already done: SSH key for GitHub",
+        "requires_sudo": false
+      },
+      {
+        "id": "miner-scripts",
+        "action": "Already fixed: path fixed, scripts redacted",
+        "requires_sudo": false
+      }
+    ]
+  }
+}

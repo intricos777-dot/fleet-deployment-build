@@ -1,0 +1,272 @@
+[
+  {
+    "session_id": "ses_eeca8a4afffeAb72Fb7ItMQKsB",
+    "content": "Clear stale context_length_cache.yaml entry for space-bunny-alpha",
+    "status": "completed",
+    "priority": "low",
+    "position": 0,
+    "time_created": 1791328022262,
+    "time_updated": 1791328022262
+  },
+  {
+    "session_id": "ses_eeca8a4afffeAb72Fb7ItMQKsB",
+    "content": "Fix hermes botocore/bedrock lazy-install failure (durable target)",
+    "status": "completed",
+    "priority": "medium",
+    "position": 1,
+    "time_created": 1791328022262,
+    "time_updated": 1791328022262
+  },
+  {
+    "session_id": "ses_eeca8a4afffeAb72Fb7ItMQKsB",
+    "content": "Fix broken `hermes` command (user PATH + venv wrapper)",
+    "status": "completed",
+    "priority": "medium",
+    "position": 2,
+    "time_created": 1791328022262,
+    "time_updated": 1791328022262
+  },
+  {
+    "session_id": "ses_eeca8a4afffeAb72Fb7ItMQKsB",
+    "content": "Advise on the two pre-fix interactive hermes sessions (restart to inherit fixes)",
+    "status": "completed",
+    "priority": "low",
+    "position": 3,
+    "time_created": 1791328022262,
+    "time_updated": 1791328022262
+  },
+  {
+    "session_id": "ses_eeca8a4afffeAb72Fb7ItMQKsB",
+    "content": "SSH PasswordAuthentication hardening \u2014 pending user to run sudo command",
+    "status": "in_progress",
+    "priority": "medium",
+    "position": 4,
+    "time_created": 1791328022262,
+    "time_updated": 1791328022262
+  },
+  {
+    "session_id": "ses_eece9ef03ffevAihgKiYmhpah8",
+    "content": "Re-run sentinel check without sudo for real shadow-root status",
+    "status": "completed",
+    "priority": "high",
+    "position": 0,
+    "time_created": 1791321934385,
+    "time_updated": 1791321934385
+  },
+  {
+    "session_id": "ses_eece9ef03ffevAihgKiYmhpah8",
+    "content": "Fix NOPASSWD entry in /etc/sudoers.d/snapgood",
+    "status": "completed",
+    "priority": "high",
+    "position": 1,
+    "time_created": 1791321934385,
+    "time_updated": 1791321934385
+  },
+  {
+    "session_id": "ses_eece9ef03ffevAihgKiYmhpah8",
+    "content": "Fix collector-token-perms warning",
+    "status": "completed",
+    "priority": "medium",
+    "position": 2,
+    "time_created": 1791321934385,
+    "time_updated": 1791321934385
+  },
+  {
+    "session_id": "ses_eece9ef03ffevAihgKiYmhpah8",
+    "content": "Fix shield-kitty-active DBus warning",
+    "status": "completed",
+    "priority": "medium",
+    "position": 3,
+    "time_created": 1791321934385,
+    "time_updated": 1791321934385
+  },
+  {
+    "session_id": "ses_eece9ef03ffevAihgKiYmhpah8",
+    "content": "Fix evidence-chain-intact CRIT",
+    "status": "completed",
+    "priority": "high",
+    "position": 4,
+    "time_created": 1791321934385,
+    "time_updated": 1791321934385
+  },
+  {
+    "session_id": "ses_eece9ef03ffevAihgKiYmhpah8",
+    "content": "Fix self-healer-alive DBus warning",
+    "status": "completed",
+    "priority": "medium",
+    "position": 5,
+    "time_created": 1791321934385,
+    "time_updated": 1791321934385
+  },
+  {
+    "session_id": "ses_ef193f5f8ffe3gSspzrsT2VooR",
+    "content": "Windows VM Setup for Gaming",
+    "status": "pending",
+    "priority": "high",
+    "position": 0,
+    "time_created": 1791244058715,
+    "time_updated": 1791244058715
+  },
+  {
+    "session_id": "ses_ef193f5f8ffe3gSspzrsT2VooR",
+    "content": "Steam Inside Windows VM",
+    "status": "pending",
+    "priority": "high",
+    "position": 1,
+    "time_created": 1791244058715,
+    "time_updated": 1791244058715
+  },
+  {
+    "session_id": "ses_ef193f5f8ffe3gSspzrsT2VooR",
+    "content": "Skate Installation",
+    "status": "pending",
+    "priority": "high",
+    "position": 2,
+    "time_created": 1791244058715,
+    "time_updated": 1791244058715
+  },
+  {
+    "session_id": "ses_ef193f5f8ffe3gSspzrsT2VooR",
+    "content": "Helldivers 2 Installation",
+    "status": "pending",
+    "priority": "high",
+    "position": 3,
+    "time_created": 1791244058715,
+    "time_updated": 1791244058715
+  },
+  {
+    "session_id": "ses_ef193f5f8ffe3gSspzrsT2VooR",
+    "content": "Launch Configuration",
+    "status": "pending",
+    "priority": "high",
+    "position": 4,
+    "time_created": 1791244058715,
+    "time_updated": 1791244058715
+  },
+  {
+    "session_id": "ses_ef193f5f8ffe3gSspzrsT2VooR",
+    "content": "Performance Optimization",
+    "status": "pending",
+    "priority": "medium",
+    "position": 5,
+    "time_created": 1791244058715,
+    "time_updated": 1791244058715
+  },
+  {
+    "session_id": "ses_ef193f5f8ffe3gSspzrsT2VooR",
+    "content": "Verification & Troubleshooting",
+    "status": "pending",
+    "priority": "medium",
+    "position": 6,
+    "time_created": 1791244058715,
+    "time_updated": 1791244058715
+  },
+  {
+    "session_id": "ses_f06c5fb43ffeyRHFzR6IR1rnVL",
+    "content": "Fix broken self-healing layer: log dir + start dead user units",
+    "status": "completed",
+    "priority": "high",
+    "position": 0,
+    "time_created": 1790890747362,
+    "time_updated": 1790890747362
+  },
+  {
+    "session_id": "ses_f06c5fb43ffeyRHFzR6IR1rnVL",
+    "content": "Build kernel/core healer with pacman-verified baseline (not tarball)",
+    "status": "completed",
+    "priority": "high",
+    "position": 1,
+    "time_created": 1790890747362,
+    "time_updated": 1790890747362
+  },
+  {
+    "session_id": "ses_f06c5fb43ffeyRHFzR6IR1rnVL",
+    "content": "Add kill switch + dry-run default + refuse-during-upgrade guards",
+    "status": "completed",
+    "priority": "high",
+    "position": 2,
+    "time_created": 1790890747362,
+    "time_updated": 1790890747362
+  },
+  {
+    "session_id": "ses_f06c5fb43ffeyRHFzR6IR1rnVL",
+    "content": "Add sentinel anchors: self-healer-alive, healer-state-writable",
+    "status": "completed",
+    "priority": "medium",
+    "position": 3,
+    "time_created": 1790890747362,
+    "time_updated": 1790890747362
+  },
+  {
+    "session_id": "ses_f06c5fb43ffeyRHFzR6IR1rnVL",
+    "content": "Verify healer detects planted drift without touching real files",
+    "status": "completed",
+    "priority": "high",
+    "position": 4,
+    "time_created": 1790890747362,
+    "time_updated": 1790890747362
+  },
+  {
+    "session_id": "ses_f06c7c862ffeEN3S4KQ1NeCUbp",
+    "content": "Write snapgood Python tool (list/pin/unpin/adopt/prune/verify/restore)",
+    "status": "completed",
+    "priority": "high",
+    "position": 0,
+    "time_created": 1790889915178,
+    "time_updated": 1790889915178
+  },
+  {
+    "session_id": "ses_f06c7c862ffeEN3S4KQ1NeCUbp",
+    "content": "Add pure retention-planner + unit test offline",
+    "status": "completed",
+    "priority": "high",
+    "position": 1,
+    "time_created": 1790889915178,
+    "time_updated": 1790889915178
+  },
+  {
+    "session_id": "ses_f06c7c862ffeEN3S4KQ1NeCUbp",
+    "content": "Write installer (snapper home config, retention handoff, unit, sudoers)",
+    "status": "completed",
+    "priority": "high",
+    "position": 2,
+    "time_created": 1790889915178,
+    "time_updated": 1790889915178
+  },
+  {
+    "session_id": "ses_f06c7c862ffeEN3S4KQ1NeCUbp",
+    "content": "Rewrite pre/post-snapshot.sh to delegate to snapgood",
+    "status": "completed",
+    "priority": "medium",
+    "position": 3,
+    "time_created": 1790889915178,
+    "time_updated": 1790889915178
+  },
+  {
+    "session_id": "ses_f06c7c862ffeEN3S4KQ1NeCUbp",
+    "content": "Update zen-healer to use snapgood create",
+    "status": "completed",
+    "priority": "medium",
+    "position": 4,
+    "time_created": 1790889915178,
+    "time_updated": 1790889915178
+  },
+  {
+    "session_id": "ses_f06c7c862ffeEN3S4KQ1NeCUbp",
+    "content": "Install SKILL.md godoc into live ~/.hermes/skills/devops/",
+    "status": "completed",
+    "priority": "low",
+    "position": 5,
+    "time_created": 1790889915178,
+    "time_updated": 1790889915178
+  },
+  {
+    "session_id": "ses_f06c7c862ffeEN3S4KQ1NeCUbp",
+    "content": "Fix service unit: remove racy ExecStartPost, enable unattended enforcement",
+    "status": "completed",
+    "priority": "high",
+    "position": 6,
+    "time_created": 1790889915178,
+    "time_updated": 1790889915178
+  }
+]

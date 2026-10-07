@@ -1,0 +1,42 @@
+[
+  {
+    "id": "4694c72f6b14430bc9e43dc3ae409838c39dd3df",
+    "worktree": "/home/livings/Projects/_inventory/neuromorphic-handoff",
+    "name": null,
+    "vcs": "git",
+    "time_created": 1791323626101,
+    "time_updated": 1791323690055
+  },
+  {
+    "id": "594562473bdf297a1b20c8b3e5602e6795ada648",
+    "worktree": "/home/livings/Projects/quantum-enochian",
+    "name": null,
+    "vcs": "git",
+    "time_created": 1790641254991,
+    "time_updated": 1790641291319
+  },
+  {
+    "id": "edb9cd55a2708617324994e26c1d696e4199c7a2",
+    "worktree": "/home/livings/Projects/shield-kitty",
+    "name": null,
+    "vcs": "git",
+    "time_created": 1790450735735,
+    "time_updated": 1790451302017
+  },
+  {
+    "id": "2fe0d8294095bc858ec29f9400375224d0dbd4d0",
+    "worktree": "/home/livings/Projects/zen-hardening",
+    "name": null,
+    "vcs": "git",
+    "time_created": 1790450085338,
+    "time_updated": 1790450120608
+  },
+  {
+    "id": "global",
+    "worktree": "/",
+    "name": null,
+    "vcs": null,
+    "time_created": 1790445604340,
+    "time_updated": 1791325845857
+  }
+]

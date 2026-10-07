@@ -1,0 +1,23 @@
+# Unfinished work (regenerated 2026-10-06 after repo sync polish)
+
+## Repositories — all committed and pushed (verified clean)
+
+The following 24 repos were synced (modified + untracked staged, committed, pushed):
+`business-health-monitor`, `coordination-server`, `crypto-bot`, `design-miner`, `firedragon`,
+`firedragon-flatpak-fresh`, `garuda-tools-fresh`, `lia-cli`, `lia-void-workspace`, `lin-antimalware`,
+`linux-zen-build`, `loz-majoras-mask`, `offline-agents`, `polsia`, `shield-kitty`, `zen-healer`,
+`linkedin-outreach`, `living-sin-assets`, `metals-alloy-engineering`, `mp3-video-virtualizer`,
+`polsia-global-trade`, `profit-widget`, `quantum-loop`, `spacecraft-blueprint-simulator`.
+
+Verified: modified=0, unpushed=0 for all.
+
+## Remaining (nothing to push)
+
+- `user-data-archive-2026-09` — clean; NO-UPSTREAM (local-only checkout, not wired to a remote).
+- `later-work`, `aerovora-industries`, `black-ops-2-elysium`, `dot-hack-remake`,
+  `half-life-2-elysium`, `half-life-elysium`, `kali-zen-suite`, `neuromorphic-handoff` — clean, nothing to commit.
+
+## Open threads (all resolved on disk; commit records in git)
+
+- business-health-monitor / coordination-server / crypto-bot / design-miner / firedragon /
+  firedragon-flatpak-fresh / garuda-tools-fresh — files now committed and pushed.
