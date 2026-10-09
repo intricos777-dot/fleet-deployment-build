@@ -31,7 +31,7 @@ echo
 # -------------------------------------------------
 echo "--- Item 1: SSH PasswordAuthentication hardening ---"
 echo "Disables password auth; root/logic keys already configured (ssh-key done)."
-sudo sh -c "echo 'PasswordAuthentication no' > /etc/ssh/sshd_config.d/99-password-auth.conf"
+echo "PasswordAuthentication no" | sudo tee /etc/ssh/sshd_config.d/99-password-auth.conf >/dev/null
 echo "Wrote /etc/ssh/sshd_config.d/99-password-auth.conf"
 echo "Restarting sshd..."
 sudo systemctl restart sshd 2>/dev/null || sudo systemctl reload sshd 2>/dev/null || true
