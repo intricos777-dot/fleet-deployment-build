@@ -10,7 +10,7 @@ SESSION_LOG = os.path.join(HOME, 'Projects', 'session-log')
 VOID_WORKSPACE = '/home/livings/Projects/torch-workspace'
 
 def read_sessions():
-    """Read opencode sessions + hermes sessions into one index.""
+    """Read opencode sessions + hermes sessions into one index."""
     out = {'opencode': [], 'hermes': [], 'hermes_cli': [], 'session_log': []}
     # opencode sessions
     db = os.path.join(OPCODE, 'opencode.db')
