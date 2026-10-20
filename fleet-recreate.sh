@@ -1,4 +1,5 @@
 #!/bin/bash
+# Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work
 # Fleet deployment recreation script
 # Generated from torch-workspace data
 

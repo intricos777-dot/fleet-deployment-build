@@ -1,3 +1,4 @@
+# Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work
 # =====================================================================
 # FLEET DEPLOYMENT SYSTEM-CHANGE SCRIPTS  (v2)
 # Generated from torch-workspace data on 2026-10-06.

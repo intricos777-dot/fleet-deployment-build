@@ -1,3 +1,4 @@
+<!-- Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work -->
 # Hermes & Opencode work prompts
 
 Bring back to life the toolset I prompted for in prior builds so hermes and

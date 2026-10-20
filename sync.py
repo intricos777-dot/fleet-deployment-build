@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work
 """Sync hermes + opencode session data into the torch store."""
 import json, os, sqlite3, shutil, glob
 from datetime import datetime
